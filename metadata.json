@@ -1,0 +1,5 @@
+{
+  "name": "ColorizePro",
+  "description": "A modern, responsive web application that converts black and white images into full-color photos using AI. Upload an image to bring old memories back to life with vibrant colors.",
+  "requestFramePermissions": []
+}
